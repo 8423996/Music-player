@@ -1,1 +1,1 @@
-This is a music player app having some playlist.
+It is a music player app having some playlist.
